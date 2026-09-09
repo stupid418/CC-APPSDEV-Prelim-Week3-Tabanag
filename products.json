@@ -33,5 +33,19 @@
     "Category": "Grocery",
     "Price": 250,
     "Stock": 15
+  },
+  {
+    "Sku": "SKU006",
+    "Name": "Monitor",
+    "Category": "Electronics",
+    "Price": 8500,
+    "Stock": 7
+  },
+  {
+    "Sku": "SKU007",
+    "Name": "Bread",
+    "Category": "Grocery",
+    "Price": 70,
+    "Stock": 12
   }
 ]

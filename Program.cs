@@ -15,6 +15,10 @@ var inputProducts = new List<Product>
     new("SKU003", "Keyboard", "Electronics", 1500m, 0),
     new("SKU004", "Rice", "Grocery", 60m, 3),
     new("SKU005", "Coffee", "Grocery", 250m, 15),
+      //Two New Valid Products
+    new("SKU006", "Monitor", "Electronics", 8500, 7),
+    new("SKU007", "Bread", "Grocery", 70m, 12),
+    new("SKU008", "", "Miscellaneous", -50, 3),
     new("", "Invalid Product", "Miscellaneous", -10m, -2),
     new("SKU001", "Duplicate Laptop", "Electronics", 48000m, 5)
 };
@@ -82,6 +86,20 @@ foreach (var product in electronics)
 {
     Console.WriteLine($"{product.Name} - {product.Price:C}");
 }
+
+// Add a New LINQ Query
+var inStockProducts = products  
+    .Where(p => p.Stock > 10)
+    .OrderBy(p => p.Name)
+    .ToList();
+
+Console.WriteLine("\nProducts with stock Greater Than 10: ");
+
+foreach (var product  in inStockProducts)
+{
+    Console.WriteLine($"{product.Name} - Stock: {product.Stock}");
+}
+
 
 // LINQ high-value products
 var highValueProducts = products
