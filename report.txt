@@ -1,0 +1,11 @@
+Product Inventory Report
+Generated: 09/09/2026 2:45:16 pm
+----------------------------------------
+SKU001 | Laptop | Electronics | ₱48,000.00 | Stock: 5
+SKU002 | Mouse | Electronics | ₱750.00 | Stock: 20
+SKU003 | Keyboard | Electronics | ₱1,500.00 | Stock: 0
+SKU004 | Rice | Grocery | ₱60.00 | Stock: 3
+SKU005 | Coffee | Grocery | ₱250.00 | Stock: 15
+----------------------------------------
+Total products: 5
+Total inventory value: ₱258,930.00

@@ -1,0 +1,15 @@
+C:\Users\GeanTabanag\OneDrive\Desktop\CC-APPSDEV\prelim\Week3DataLab\bin\Debug\net10.0\Week3DataLab.exe
+C:\Users\GeanTabanag\OneDrive\Desktop\CC-APPSDEV\prelim\Week3DataLab\bin\Debug\net10.0\Week3DataLab.deps.json
+C:\Users\GeanTabanag\OneDrive\Desktop\CC-APPSDEV\prelim\Week3DataLab\bin\Debug\net10.0\Week3DataLab.runtimeconfig.json
+C:\Users\GeanTabanag\OneDrive\Desktop\CC-APPSDEV\prelim\Week3DataLab\bin\Debug\net10.0\Week3DataLab.dll
+C:\Users\GeanTabanag\OneDrive\Desktop\CC-APPSDEV\prelim\Week3DataLab\bin\Debug\net10.0\Week3DataLab.pdb
+C:\Users\GeanTabanag\OneDrive\Desktop\CC-APPSDEV\prelim\Week3DataLab\obj\Debug\net10.0\Week3DataLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GeanTabanag\OneDrive\Desktop\CC-APPSDEV\prelim\Week3DataLab\obj\Debug\net10.0\Week3DataLab.AssemblyInfoInputs.cache
+C:\Users\GeanTabanag\OneDrive\Desktop\CC-APPSDEV\prelim\Week3DataLab\obj\Debug\net10.0\Week3DataLab.AssemblyInfo.cs
+C:\Users\GeanTabanag\OneDrive\Desktop\CC-APPSDEV\prelim\Week3DataLab\obj\Debug\net10.0\Week3DataLab.csproj.CoreCompileInputs.cache
+C:\Users\GeanTabanag\OneDrive\Desktop\CC-APPSDEV\prelim\Week3DataLab\obj\Debug\net10.0\Week3DataLab.sourcelink.json
+C:\Users\GeanTabanag\OneDrive\Desktop\CC-APPSDEV\prelim\Week3DataLab\obj\Debug\net10.0\Week3DataLab.dll
+C:\Users\GeanTabanag\OneDrive\Desktop\CC-APPSDEV\prelim\Week3DataLab\obj\Debug\net10.0\refint\Week3DataLab.dll
+C:\Users\GeanTabanag\OneDrive\Desktop\CC-APPSDEV\prelim\Week3DataLab\obj\Debug\net10.0\Week3DataLab.pdb
+C:\Users\GeanTabanag\OneDrive\Desktop\CC-APPSDEV\prelim\Week3DataLab\obj\Debug\net10.0\Week3DataLab.genruntimeconfig.cache
+C:\Users\GeanTabanag\OneDrive\Desktop\CC-APPSDEV\prelim\Week3DataLab\obj\Debug\net10.0\ref\Week3DataLab.dll
